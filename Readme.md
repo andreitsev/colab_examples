@@ -11,3 +11,5 @@
 [GNN_examples](https://nbviewer.org/github/andreitsev/colab_examples/blob/main/GNN_examples.ipynb)
 
 [BigARTM](https://nbviewer.org/github/andreitsev/colab_examples/blob/main/BigARTM.ipynb#home)
+
+[lightFM](https://nbviewer.org/github/andreitsev/colab_examples/blob/main/lightFM_example.ipynb)
