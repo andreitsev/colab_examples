@@ -13,3 +13,5 @@
 [BigARTM](https://nbviewer.org/github/andreitsev/colab_examples/blob/main/BigARTM.ipynb#home)
 
 [lightFM](https://nbviewer.org/github/andreitsev/colab_examples/blob/main/lightFM_example.ipynb)
+
+[CatBoostRanker](https://nbviewer.org/github/andreitsev/colab_examples/blob/main/CatBoostRanker_example.ipynb)
