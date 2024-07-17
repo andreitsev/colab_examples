@@ -15,3 +15,5 @@
 [lightFM](https://nbviewer.org/github/andreitsev/colab_examples/blob/main/lightFM_example.ipynb)
 
 [CatBoostRanker](https://nbviewer.org/github/andreitsev/colab_examples/blob/main/CatBoostRanker_example.ipynb)
+
+[yandex_coderun_problems](https://nbviewer.org/github/andreitsev/colab_examples/blob/main/yandex_coderun_tasks.ipynb#home)
